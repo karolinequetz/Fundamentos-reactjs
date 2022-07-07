@@ -19,7 +19,6 @@
 }
 
 .avatar {
-
   width: calc(3rem + 12px);
   height: calc(3rem + 12px);
   border-radius: 8px;
@@ -65,6 +64,6 @@
 }
 
 .sidebar footer a:hover {
-background: var(--green-500);
-color: var(--white);
+  background: var(--green-500);
+  color: var(--white);
 }
